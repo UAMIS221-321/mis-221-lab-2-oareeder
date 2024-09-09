@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mis-221-lab-2-oareeder", "mis-221-lab-2-oareeder.csproj", "{48F0B894-B143-4D46-BB54-C825E3D84E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F0B894-B143-4D46-BB54-C825E3D84E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F0B894-B143-4D46-BB54-C825E3D84E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F0B894-B143-4D46-BB54-C825E3D84E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F0B894-B143-4D46-BB54-C825E3D84E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A2DCAD-8A6E-4CBE-AB39-84A86A9BBB11}
+	EndGlobalSection
+EndGlobal

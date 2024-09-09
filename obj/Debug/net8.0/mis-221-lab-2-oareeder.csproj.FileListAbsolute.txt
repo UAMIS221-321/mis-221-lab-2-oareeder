@@ -1,0 +1,15 @@
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\bin\Debug\net8.0\mis-221-lab-2-oareeder.exe
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\bin\Debug\net8.0\mis-221-lab-2-oareeder.deps.json
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\bin\Debug\net8.0\mis-221-lab-2-oareeder.runtimeconfig.json
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\bin\Debug\net8.0\mis-221-lab-2-oareeder.dll
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\bin\Debug\net8.0\mis-221-lab-2-oareeder.pdb
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\mis-221-lab-2-oareeder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\mis-221-lab-2-oareeder.AssemblyInfoInputs.cache
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\mis-221-lab-2-oareeder.AssemblyInfo.cs
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\mis-221-lab-2-oareeder.csproj.CoreCompileInputs.cache
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\mis-221-lab-2-oareeder.sourcelink.json
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\mis-221-lab-2-oareeder.dll
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\refint\mis-221-lab-2-oareeder.dll
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\mis-221-lab-2-oareeder.pdb
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\mis-221-lab-2-oareeder.genruntimeconfig.cache
+C:\Users\lalah\Documents\source\Fall2024Repos\labs\mis-221-lab-2-oareeder\obj\Debug\net8.0\ref\mis-221-lab-2-oareeder.dll
